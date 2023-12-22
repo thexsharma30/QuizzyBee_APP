@@ -16,7 +16,7 @@ const Landing = () => {
     return (
       <div className="w-screen h-screen flex flex-col justify-center items-center">
         <h1 className="inline-flex overflow-hidden animate-type group-hover:animate-type-reverse whitespace-nowrap text-brand-accent will-change-transform text-white bold text-4xl sm:text-6xl lg:text-8xl">
-          Welcome to Quizfy
+          Welcome to QuizzyBee
           <span className="box-border inline-block w-1 lg:w-2 h-10 sm:h-16 lg:h-24 bg-white animate-cursor will-change-transform"></span>
         </h1>
       </div>
