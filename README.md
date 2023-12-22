@@ -1,4 +1,4 @@
 # Quiz_APP
 
 # Live Version 🚀
-https://quiz-app-jzgq.vercel.app/
+https://quiz-app-lime-psi.vercel.app/
